@@ -1,0 +1,38 @@
+li.cryptocurrency-item {
+  list-style-type: none;
+  padding: 15px;
+}
+
+.currency-name-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 130px;
+}
+
+.currency-logo {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.coin-name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  margin: 0px;
+}
+
+.currency-value-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 180px;
+}
+
+.currency-name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  margin: 0px;
+}
